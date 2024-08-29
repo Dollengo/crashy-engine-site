@@ -7,9 +7,9 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/Dollengo/CrashyEngine",
-		label: "Project",
-		handle: "github@crashyengine",
+		href: "https://twitter.com/dollengo",
+		label: "twitter",
+		handle: "twitter@dollengo",
 	},
 	{
 		icon: <Github size={20} />,

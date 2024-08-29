@@ -19,8 +19,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://crashyengine/og.png",
-        width: 1920,
-        height: 1080,
+        width: 1080,
+        height: 482,
       },
     ],
     locale: "en-US",
