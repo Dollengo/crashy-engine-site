@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "crashyengine.vercel.app",
-    template: "%s | crashyengine.vercel.app",
+    default: "crashyengine",
+    template: "%s | crashyengine",
   },
   description: "The blog of the Crashy game engine.",
   openGraph: {
-    title: "crashyengine.vercel.app",
+    title: "crashyengine",
     description:
       "The blog of the Crashy game engine.",
-    url: "https://crashyengine.vercel.app",
-    siteName: "crashyengine.vercel.app",
+    url: "https://crashyengine",
+    siteName: "crashyengine",
     images: [
       {
-        url: "https://crashyengine.vercel.app/og.png",
+        url: "https://crashyengine/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "crashy engine",
     card: "summary_large_image",
   },
   icons: {
