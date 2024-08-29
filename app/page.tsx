@@ -42,7 +42,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             dollengo
-          </Link>Copyright 2024 Dollengo - sponsored by unkey.dev
+          </Link>Copyright 2024 Dollengo
         </h2>
       </div>
     </div>
