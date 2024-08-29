@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "crashyengine.vercel.app",
+    template: "%s | crashyengine.vercel.app",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "The blog of the Crashy game engine.",
   openGraph: {
-    title: "chronark.com",
+    title: "crashyengine.vercel.app",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "The blog of the Crashy game engine.",
+    url: "https://crashyengine.vercel.app",
+    siteName: "crashyengine.vercel.app",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://crashyengine.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },
