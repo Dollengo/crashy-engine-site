@@ -7,21 +7,21 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Github size={20} />,
-		href: "https://twitter.com/dollengo",
-		label: "twitter",
-		handle: "twitter@dollengo",
+		href: "https://youtube.com/@dollengo",
+		label: "Dollengo-YT",
+		handle: "youtube@dollengo",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/Dollengo",
-		label: "Dollengo",
+		label: "Dollengo-Git",
 		handle: "github@dollengo",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/paomixto",
-		label: "Paomixto",
-		handle: "github@paomixto",
+		href: "https://t.me/dollengo",
+		label: "Dollengo-Tlg",
+		handle: "telegram@dollengo",
 	},
 ];
 
