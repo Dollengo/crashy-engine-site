@@ -1,26 +1,26 @@
 "use client";
-import { Github, Mail, Threads } from "lucide-react";
+import { Github, Youtube, Instagram } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Github size={20} />,
+		icon: <Youtube size={20} />,
 		href: "https://youtube.com/@dollengo",
-		label: "Dollengo-YT",
+		label: "Youtube",
 		handle: "youtube@dollengo",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/Dollengo",
-		label: "Dollengo-",
+		label: "Github",
 		handle: "github@dollengo",
 	},
 	{
-		icon: <Threads size={20} />,
+		icon: <Instagram size={20} />,
 		href: "https://www.threads.net/@tarcisiooo__",
-		label: "Dollengo",
+		label: "Threads",
 		handle: "threads@dollengo",
 	},
 ];
