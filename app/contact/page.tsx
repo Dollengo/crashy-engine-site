@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, Mail, Threads } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -14,14 +14,14 @@ const socials = [
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/Dollengo",
-		label: "Dollengo-Git",
+		label: "Dollengo-",
 		handle: "github@dollengo",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://t.me/dollengo",
-		label: "Dollengo-Tlg",
-		handle: "telegram@dollengo",
+		icon: <Threads size={20} />,
+		href: "https://www.threads.net/@tarcisiooo__",
+		label: "Dollengo",
+		handle: "threads@dollengo",
 	},
 ];
 
