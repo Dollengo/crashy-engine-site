@@ -1,5 +1,5 @@
 "use client";
-import { Github, Youtube, Instagram } from "lucide-react";
+import { Github, Youtube, Twitter } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -18,10 +18,10 @@ const socials = [
 		handle: "github@dollengo",
 	},
 	{
-		icon: <Instagram size={20} />,
-		href: "https://www.threads.net/@tarcisiooo__",
-		label: "Threads",
-		handle: "threads@dollengo",
+		icon: <Twitter size={20} />,
+		href: "https://www.twitter.com/dollengo",
+		label: "Twitter",
+		handle: "twitter@dollengo",
 	},
 ];
 
